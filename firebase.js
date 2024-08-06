@@ -6,7 +6,7 @@ import {getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBynJCA5FycE5IM1xDeOETAEzbiMvmpjk0",
+  apiKey: "INSERT_API_KEY_HERE",
   authDomain: "inventory-management-8545e.firebaseapp.com",
   projectId: "inventory-management-8545e",
   storageBucket: "inventory-management-8545e.appspot.com",
